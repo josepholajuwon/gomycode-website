@@ -1,0 +1,10 @@
+html {
+    font-size: 22px;
+}
+body {
+    background-color: rgb(224, 234, 229);
+    color:black
+}
+a{
+    text-decoration: none; color: rgb(223, 16, 16);
+}
